@@ -1,1 +1,1 @@
-Simple repository for storing some answers and code I've written for Nick and Kevin's great book, Ace the Data Science Interview
+Simple repository for storing some answers and code I've written for Nick and Kevin's great book, Ace the Data Science Interview.
